@@ -1,0 +1,20 @@
+1 -->   a[href="/"] 
+
+2 --> //*[@id="wt-site-header"]/div/div/div[2]/div[1]/div/nav/div[2]/button 
+
+3 -->  a[href="/es-es/store/"] 
+
+4 --> //*[@id="js-menu-second-desktop"]/a[6]   
+
+5 --> a[href="/es-es/idea/features#collaborative"]  
+
+6 --> //*[@id="overview-content"]/div/section[6]/div/div/div[1]/div/ul/li[6]/p/a
+6 --> a[href="https://lp.jetbrains.com/intellij-idea-profiler/"]    
+
+7-->  //*[@id="overview-content"]/div/section[6]/div/div/div[1]/div/div/span/button  
+
+8 --> a[href="/es-es/idea/download/download-thanks.html?platform=windows&code=IIC"]  
+
+9--> a[href="/es-es/products/compare/?product=idea&product=idea-ce"] 
+
+10-->//*[@class="wt-icon wt-icon_theme_light wt-icon_size_xs wt-privacy-notice__info-icon"] 

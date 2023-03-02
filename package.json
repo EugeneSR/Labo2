@@ -1,0 +1,17 @@
+{
+  "name": "silvialabo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.9.5"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.31.1",
+    "ts-node": "^10.9.1"
+  }
+}
