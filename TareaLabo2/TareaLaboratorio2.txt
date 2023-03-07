@@ -1,8 +1,8 @@
-1 -->          a[href="/"] 
+1 -->          //*[@id="wt-site-header"]/div/div/div[2]/a
 
 2 -->          //*[@id="wt-site-header"]/div/div/div[2]/div[1]/div/nav/div[2]/button 
 
-3 -->          a[href="/es-es/store/"] 
+3 -->          header#wt-site-header .wt-col-inline.wt-col_align-self_center._siteHeader__actions_zfsdn ._siteHeaderActions__action_lnlo2._siteHeaderActions__action_i2mrqj:nth-of-type(3)
 
 4 -->          //*[@id="js-menu-second-desktop"]/a[6]   
 
@@ -18,4 +18,4 @@
 
 9-->           a[href="/es-es/products/compare/?product=idea&product=idea-ce"] 
 
-10-->          //*[@class="wt-icon wt-icon_theme_light wt-icon_size_xs wt-privacy-notice__info-icon"] 
+10-->         //*[@class="wt-privacy-notice__tooltip-content"]
