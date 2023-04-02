@@ -1,21 +1,20 @@
-1 -->          //*[@id="wt-site-header"]/div/div/div[2]/a
 
-2 -->          //*[@id="wt-site-header"]/div/div/div[2]/div[1]/div/nav/div[2]/button 
+1 -->  (//div[contains(@class,'wt-row wt-row_align-items_center')])[1]/a
 
-3 -->          header#wt-site-header .wt-col-inline.wt-col_align-self_center._siteHeader__actions_zfsdn ._siteHeaderActions__action_lnlo2._siteHeaderActions__action_i2mrqj:nth-of-type(3)
+2 -->  (//button[text()='Para equipos'])[1]
 
-4 -->          //*[@id="js-menu-second-desktop"]/a[6]   
+3 -->   //a[@data-test='site-header-cart-action']
 
-5 -->          a[href="/es-es/idea/features#collaborative"]  
+4 -->   //a[@class="wt-col-inline menu-second__download-button wt-button wt-button_size_s wt-button_mode_primary"] 
 
-6 -->          //*[@id="overview-content"]/div/section[6]/div/div/div[1]/div/ul/li[6]/p/a
+5 -->   a[href="/es-es/idea/features#collaborative"] 
 
-6 -->          a[href="https://lp.jetbrains.com/intellij-idea-profiler/"]    
+6 -->   (//p[@class='wt-col-inline']//a)[1]
 
-7-->           //*[@id="overview-content"]/div/section[6]/div/div/div[1]/div/div/span/button  
+7-->    (//a[@type='button']/following-sibling::button)[1] 
 
-8 -->          a[href="/es-es/idea/download/download-thanks.html?platform=windows&code=IIC"]  
+8 -->   (//a[@data-test='dropdown-button-link'])[2]
 
-9-->           a[href="/es-es/products/compare/?product=idea&product=idea-ce"] 
+9-->    //a[contains(text(),'Comparar ediciones')]
 
-10-->         //*[@class="wt-privacy-notice__tooltip-content"]
+10-->   //span[@data-test='tooltip']//div[1]
